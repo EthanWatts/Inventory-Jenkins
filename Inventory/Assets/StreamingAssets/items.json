@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "title": "Steel Gloves",
+    "description": "Gloves... that are made of steel.",
+    "value": 6,
+    "stats": 
+    {
+      "power": 1,
+      "defence": 4,
+      "vitality": 2
+    },
+    "stackable": false,
+    "slug": "steel_gloves"
+  },
+  {
+    "id": 1,
+    "title": "Shiny Sword",
+    "description": "A shiny sword",
+    "value": 543,
+    "stats": 
+    {
+      "power": 56,
+      "defence": 2,
+      "vitality": 54
+    },
+    "stackable": true,
+    "slug": "shiny_sword"
+  }
+]
